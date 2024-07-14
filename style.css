@@ -1,0 +1,15 @@
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh; 
+}
+.black_square{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 5%;
+}
